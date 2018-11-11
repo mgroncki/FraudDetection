@@ -1,3 +1,11 @@
+# Pictures
+*.png
+
+# model and data dirs
+models/
+Data/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
